@@ -125,3 +125,8 @@ git commit -m "Task-Manager"
 git branch -M main
 git remote add origin https://github.com/bejugamsameera-lgtm/Task-Manager.git
 git push -u origin main
+git add .
+>> git commit -m "Initial Flask Task Manager project"
+>> git branch -M main
+>> git remote add origin https://github.com/bejugamsameera-lgtm/Task-Manager.git
+>> git push -u origin main
